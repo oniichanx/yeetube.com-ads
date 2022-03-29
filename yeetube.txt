@@ -52,3 +52,6 @@ r5.sn-woc7ln7y.googlevideo.com
 r5---sn-woc7ln7y.googlevideo.com	
 r6.sn-uvuppb-c33l.googlevideo.com	
 r6---sn-uvuppb-c33l.googlevideo.com
+r8---sn-uvu-c336.googlevideo.com	
+rr6---sn-uvu-2ine.googlevideo.com	
+r6---sn-uvu-c33ez.googlevideo.com
